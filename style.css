@@ -1,0 +1,151 @@
+body{
+    background-color: rgba(242, 206, 218, 1);
+    margin: 0;
+    padding: 0;
+    flex-wrap: wrap;
+
+}
+.header{
+    width: auto;
+    height: 120px;
+    display: flex;
+    justify-content: space-around;
+    font-size: 10px;
+    padding-top: 50px;
+}
+.KNOP{
+    width: 195px;
+    height: 62px;
+    margin-top: 5px;
+    border: 3px solid green;
+    border-radius: 5px;
+    color: white;
+    font-size: 18px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgba(210, 49, 102, 1);
+}
+.polar{
+    padding-bottom: 80px;
+    width: 70px;
+    
+}
+.container{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+.text{
+  font-size: 27px;  
+  width:560px;
+}
+h6{
+   margin: 0;
+}
+h1{
+    margin-top: 0px;
+}
+.fhoto{
+    width: 500px;
+}
+small{
+    color:rgba(15, 1, 1, 0.971) ;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.KNOPA{
+    width: 175px;
+    height: 49px;
+    background-color: rgba(210, 49, 102, 1);
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+    border: 3px solid green;
+    margin-top: 50px;
+}
+.container-center{
+    width: auto;
+    height: 400px;
+    border: 3px solid;
+    background-color: rgba(255, 255, 255, 1);
+    background-size: 44px;
+    
+}
+.container-centers{
+    display: flex;
+    justify-content: space-around;
+    justify-content: space-evenly;
+    padding-top: 140px;
+
+
+}
+.teks{
+    display: flex;
+    justify-content: space-around;
+    justify-content: space-evenly;
+    color: rgba(0, 0, 0, 1);
+    font-size: 28px;
+}
+.textx{
+  display: flex;
+  justify-content: space-around;
+  justify-content: space-evenly;
+  font-size: 13px;
+  color:  rgb(0, 0, 1);
+  
+}
+.main{
+    width: auto;
+    height: 500px;
+    background: rgba(248, 237, 240, 1); 
+    border: 3px solid;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 70px;
+}
+.tekss{
+    font-size: 27px;  
+  width:560px;
+  
+  
+
+
+}
+.h11{
+    margin-top: 0px;
+    font-size: 62px;
+}
+.smalle{
+    font-size: 18px;
+    color:  rgba(21, 1, 1, 1);
+    
+
+
+}
+.cnop{
+    width: 165px;
+    height: 52px;
+    font-size: 18px ;
+    color: white;
+    background: rgba(214, 67, 116, 1);
+    margin-top: 25px;
+    border: 3px solid green;
+}
+.food{
+    display: flex;
+    justify-content: flex-end;
+}
+@media (max-width: 600px) {
+    .item {
+        flex: 1 1 100%; /* На маленьких экранах элементы будут занимать всю ширину */
+    }
+}
+
+
+   
+
+
+
+
+
+
+
